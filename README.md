@@ -1,6 +1,6 @@
 <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/4b13d269-71b6-436d-9558-af8584382480" />
 <a href="https://www.credly.com/badges/https://www.credly.com/badges/74134f2f-12af-4e86-b5c8-6d67b6924679/public_url/public_url">
-  <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.pngimage.png" width="120" alt="AWS Certified Solutions Architect – Associate">
+  <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.pngimage.png" width="100">
 </a>
 <!--
 **kotarooo17/kotarooo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
